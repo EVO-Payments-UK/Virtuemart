@@ -5,4 +5,4 @@ This plugin is provided for EVO Payments merchants using Virtuemart.
 Got a question? For UK support email ecommerce@evopayments.com.
 
 
-For instructions on how to install the plugin on Virtuemart please go to our Wiki [here](https://github.com/EVO-Payments-UK/Virtuemart/wiki/Installation-of-EVO-Payments-plugin-for-Virtuemart).
+For instructions on how to install the plugin on Virtuemart please go to our Wiki [here](https://github.com/EVO-Payments-UK/Virtuemart/wiki/Installation,-configuration-and-the-use-of-the-payment-module-for-VirtueMart-and-EVO-Payments.).
